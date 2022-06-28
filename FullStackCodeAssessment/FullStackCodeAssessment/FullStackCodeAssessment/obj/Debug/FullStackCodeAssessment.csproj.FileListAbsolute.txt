@@ -1,0 +1,8 @@
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\bin\Debug\FullStackCodeAssessment.exe.config
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\bin\Debug\FullStackCodeAssessment.exe
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\bin\Debug\FullStackCodeAssessment.pdb
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\obj\Debug\FullStackCodeAssessment.csproj.AssemblyReference.cache
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\obj\Debug\FullStackCodeAssessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\obj\Debug\FullStackCodeAssessment.csproj.CoreCompileInputs.cache
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\obj\Debug\FullStackCodeAssessment.exe
+C:\Users\naray\source\Workspaces\Workspace\FullStackCodeAssessment\FullStackCodeAssessment\obj\Debug\FullStackCodeAssessment.pdb
